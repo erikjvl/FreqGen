@@ -12,6 +12,7 @@ All duty cycles are 50%.
 When the ESP32 is started the initial 1 Hz frequency is visible on the internal 
 LED (like blink). The Bluetooth connection is named ‘FreqGen’.
 
+![Screenshot](Screenshot.jpg)
 
 __By: Erikjvl 2023-05-05__
 
